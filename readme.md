@@ -1,0 +1,1 @@
+# ZERODHA - A Stock Investing and Trading Platform
